@@ -6,10 +6,10 @@ Welcome to my Data Analyst Portfolio. This repository contains all of my data an
 
 
 ### <a href = "https://github.com/tientran04/Data-Analysis-Portfolio/blob/main/Bike_share_analysis.ipynb">Bike-share Service Analysis</a>
-**Tool**: Python and relevants packages. <br/>
+**Tool**: Python, Pandas, Matplotlib. <br/>
 **Skills**: Data import, Data cleaning, Data analysis and visualization.
 
 
 ### <a href = "https://github.com/tientran04/Data-Analysis-Portfolio/blob/main/US_Crime_SQL_Script.sql">US Crime Analysis</a>
-**Tool**: Python and relevants packages.<br/>
+**Tool**: SQL.<br/>
 **Skills**: Data import, SQL Query, SQL Manipulation.
