@@ -14,7 +14,7 @@
 -- Create table
 CREATE TABLE IF NOT EXISTS us_crime (
 	dr_no VARCHAR(10) UNIQUE NOT NULL,
-	date_rptd DATE DATE NOT NULL,
+	date_rptd DATE NOT NULL,
 	date_occ DATE NOT NULL,
 	time_occ TIME DATE NOT NULL,
 	area VARCHAR(2),
